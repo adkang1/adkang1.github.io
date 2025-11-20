@@ -23,7 +23,7 @@ repository               : "adkang1/adkang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Andrea Kang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/andrea-kang-b1b659143/"
+  linkedin         : "andrea-kang-b1b659143"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
