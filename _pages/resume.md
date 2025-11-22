@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![Resume](../files/resume.pdf)
+[Resume](../files/resume.pdf)
