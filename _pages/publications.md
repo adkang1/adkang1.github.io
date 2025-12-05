@@ -10,6 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
+You can also find my articles on <a href="https://scholar.google.com/citations?user=zBy_7xAAAAAJ&hl=en&oi=ao">my Google Scholar profile.
 
 {% include bib_search.liquid %}
 
