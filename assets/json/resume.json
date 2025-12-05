@@ -15,31 +15,6 @@
       "region": "California"
     }
   },
-  "work": [
-    {
-      "name": "University of California, Los Angeles",
-      "position": "Research Assistant",
-      "startDate": "2023-09-15",
-      "summary": "Analyzing the interpretability of large language models in semantic knowledge/latent beliefs",
-      "highlights": ["LLM Interpretability"]
-    },
-    {
-      "name": "Samsung",
-      "position": "Computer Vision Intern",
-      "startDate": "2023-06-15",
-      "endDate": "2023-09-15",
-      "summary": "Expanded neural network to generate diverse synthetic data for hand pose estimation",
-      "highlights": ["hand pose estimation"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Bruin Dine (UCLA)",
-      "position": "General Member, Financial Committee Member",
-      "startDate": "2025-09-15",
-      "summary": "Recovering unserved food from campus to serve to students for free"
-    }
-  ],
   "education": [
     {
       "institution": "University of California, Los Angeles",
@@ -66,6 +41,31 @@
       "studyType": "BS",
       "startDate": "2014-08-15",
       "endDate": "2018-05-15"
+    }
+  ],
+  "work": [
+    {
+      "name": "University of California, Los Angeles",
+      "position": "Research Assistant",
+      "startDate": "2023-09-15",
+      "summary": "Analyzing the interpretability of large language models in semantic knowledge/latent beliefs",
+      "highlights": ["LLM Interpretability"]
+    },
+    {
+      "name": "Samsung",
+      "position": "Computer Vision Intern",
+      "startDate": "2023-06-15",
+      "endDate": "2023-09-15",
+      "summary": "Expanded neural network to generate diverse synthetic data for hand pose estimation",
+      "highlights": ["hand pose estimation"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bruin Dine (UCLA)",
+      "position": "General Member, Financial Committee Member",
+      "startDate": "2025-09-15",
+      "summary": "Recovering unserved food from campus to serve to students for free"
     }
   ],
   "awards": [
