@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excited to present our paper "Synthetic Data Generation with Large Language Models for Improved Depression Prediction" at CogSci 2025! 
+title: CogSci 2025
 date: 2025-08-02
 inline: false
 related_posts: false
