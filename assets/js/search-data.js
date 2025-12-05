@@ -412,8 +412,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-present-our-paper-quot-synthetic-data-generation-with-large-language-models-for-improved-depression-prediction-quot-at-cogsci-2025",
-          title: 'Excited to present our paper &amp;quot;Synthetic Data Generation with Large Language Models for...',
+            },},{id: "news-cogsci-2025",
+          title: 'CogSci 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
