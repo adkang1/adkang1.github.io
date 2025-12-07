@@ -29,4 +29,7 @@ latest_posts:
 
 Welcome to my page!
 
-I am a PhD Candidate in the [Statistics and Data Science department](https://statistics.ucla.edu/) at University of California, Los Angeles, co-advised by Professors [Hongjing Lu](https://cvl.psych.ucla.edu/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/). Prior to this, I obtained my M.S. in the [Electrical and Computer Engineering department (Machine Learning and Data Science)](https://ece.ucsd.edu/) at University of California, San Diego, advised by Professor [Pamela Cosman](https://jacobsschool.ucsd.edu/faculty/profile?id=28) for my thesis as well as Professor [Sheng Xu](https://xugroup.eng.ucsd.edu/) for further applied research.
+I am a PhD Candidate in the [Statistics and Data Science department](https://statistics.ucla.edu/) at University of California, Los Angeles, co-advised by Professors [Hongjing Lu](https://cvl.psych.ucla.edu/) and [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/).
+Prior to this, I obtained my M.S. in the [Electrical and Computer Engineering department (Machine Learning and Data Science)](https://ece.ucsd.edu/) at University of California, San Diego, advised by Professor [Pamela Cosman](https://jacobsschool.ucsd.edu/faculty/profile?id=28) for my thesis as well as Professor [Sheng Xu](https://xugroup.eng.ucsd.edu/) for further applied research.
+
+My current research focus is on the interpretability of Large Language Models (LLMs), particularly on their capacity for analogical reasoning. To what mechanisms can AI process relational knowledge, and can they learn this through methods like we do? By exploring this question, I aim to steer AI in a way that can benefit us rather than replace us.
