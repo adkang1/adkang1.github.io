@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2026-01-21'
 papers:
   zBy_7xAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Synthetic Data Generation with Large Language Models for Improved Depression Prediction
     year: '2025'
   zBy_7xAAAAAJ:UeHWp8X0CEIC:
-    citations: 16
+    citations: 18
     title: Synthetic data generation with llm for improved depression prediction
     year: '2024'
   zBy_7xAAAAAJ:d1gkVwhDpl0C:
@@ -22,7 +22,7 @@ papers:
     title: System and method for providing dominant scene classification by semantic segmentation
     year: '2023'
   zBy_7xAAAAAJ:qjMakFHDy7sC:
-    citations: 269
+    citations: 279
     title: A fully integrated wearable ultrasound system to monitor deep tissues in moving subjects
     year: '2024'
   zBy_7xAAAAAJ:u-x6o8ySG0sC:
@@ -33,3 +33,7 @@ papers:
     citations: 10
     title: System and method for providing dominant scene classification by semantic segmentation
     year: '2021'
+  zBy_7xAAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Relational Knowledge Distillation Using Fine-tuned Function Vectors
+    year: '2026'
