@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-24'
 papers:
   zBy_7xAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Synthetic Data Generation with Large Language Models for Improved Depression Prediction
     year: '2025'
   zBy_7xAAAAAJ:UeHWp8X0CEIC:
-    citations: 24
+    citations: 25
     title: Synthetic data generation with llm for improved depression prediction
     year: '2024'
   zBy_7xAAAAAJ:d1gkVwhDpl0C:
